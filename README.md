@@ -1,4 +1,4 @@
-# Heart Failure Mortality Prediction
+# Heart Failure Prediction
 
 ## Strumenti Formali per la Bioinformatica  
 **Assignment – Terza Parte**  
